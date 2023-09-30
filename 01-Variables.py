@@ -1,6 +1,7 @@
 # Variables
 # variables are containers
 # they hold the value/data
+#data types -> integer , float (decimal), string , boolean 
 
 # this is new line , ignore
 
